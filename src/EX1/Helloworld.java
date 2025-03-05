@@ -3,7 +3,7 @@ package EX1;
 public class Helloworld {
     public static void main(String[] args) {
         System.out.print("Hello world");
-        
+
         method1();
         method2();
         method3();
@@ -23,6 +23,6 @@ public class Helloworld {
     }
 
     private static void method1() {
-        System.out.println("HOLA!");
+        System.out.println("as");
     }
 }
