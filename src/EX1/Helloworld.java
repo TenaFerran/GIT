@@ -11,7 +11,7 @@ public class Helloworld {
     }
 
     private static void method4() {
-        System.out.println("dfgdgdgdfgfdgdf");
+        System.out.println("a");
     }
 
     private static void method3() {
