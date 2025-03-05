@@ -23,6 +23,6 @@ public class Helloworld {
     }
 
     private static void method1() {
-        System.out.println("Ferran");
+        System.out.println("HOLA!");
     }
 }
