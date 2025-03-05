@@ -17,6 +17,7 @@ public class Helloworld {
     }
 
     private static void method2() {
+        System.out.println("Juan");
     }
 
     private static void method1() {
