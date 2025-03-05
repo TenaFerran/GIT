@@ -11,7 +11,7 @@ public class Helloworld {
     }
 
     private static void method4() {
-        System.out.println("a");
+        System.out.println("Izan");
     }
 
     private static void method3() {
